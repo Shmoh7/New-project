@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.navbar-logo{
+    height: 100px;
+
+}
+header{
+    border-bottom: 1px  solid;
+}
+a:visited{
+    color:black;
+}
+a{
+    text-decoration: none;
+}
+
+/* Navbar */
+.navbar-nav{
+    float: right;
+}
+.nav-item{
+color: black;
+float: left;
+padding: 10px;
+margin: 5px;
+font-size: 20px;
+font-weight: bold ;
+
+}
+.nav-item{
+color: black;
+list-style: none;
+}
+.nav-item a:hover{
+color: black;
+}
+
+/* Hero Img */
+.hero-img{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
